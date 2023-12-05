@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989923292054",
+    "project_id": "ui-f2786",
+    "storage_bucket": "ui-f2786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989923292054:android:e83e2c93a7bb644b6723b7",
+        "android_client_info": {
+          "package_name": "com.example.amazonui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989923292054-u5bs9gm97cgsefh240cb82plks7148b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq77X-6gTxBTohxRD6EPLKCxHO5k9VoXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989923292054-u5bs9gm97cgsefh240cb82plks7148b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
